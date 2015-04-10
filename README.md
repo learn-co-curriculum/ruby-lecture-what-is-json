@@ -1,3 +1,8 @@
+---
+languages: 
+tags: lecture
+---
+
 # Title
 
 ## Topics Covered / Objectives
