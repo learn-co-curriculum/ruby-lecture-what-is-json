@@ -5,9 +5,9 @@ tags: lecture
 
 # Title
 
-## Topics Covered / Objectives
-
 ## Video
+
+## Topics Covered / Objectives
 
 ## Summary / README / Transcript
 
